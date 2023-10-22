@@ -6,7 +6,7 @@ public class Universidadsemana10 {
     
 public Facultad() {
 }
-
+//constructores
 public Facultad(String id, String nombreFacultad, char pabellon, Carrera[] carreras, String decana) {
     this.id = id;
     this.nombreFacultad = nombreFacultad;
